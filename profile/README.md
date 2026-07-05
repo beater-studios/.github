@@ -1,6 +1,6 @@
-<h1 align="center">Beater Studios</h1>
-
-<p align="center"><em>More than games. The real adventure begins here.</em></p>
+<p align="center">
+  <img src="./banner.png" alt="Beater Studios - Independent game studio" width="100%">
+</p>
 
 <p align="center">
   <a href="https://beaterstudios.com">Website</a> ·
