@@ -34,4 +34,4 @@ Game jams, engine studies and early experiments: [OpenMU Browser Stack](https://
 
 ---
 
-<p align="center"><sub>Made with ♥ in Brazil</sub></p>
+<p align="center"><sub>made with ☕︎</sub></p>
